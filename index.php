@@ -1,5 +1,5 @@
 <?php
-
+// this is my database connection script
 $dsn = "mysql:
         host=localhost;
         dbname=adv_php;
