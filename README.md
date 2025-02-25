@@ -19,5 +19,5 @@ Ensure you have the following installed on your system:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/bhc-webdev/01-setup.git
 cd your-repo
